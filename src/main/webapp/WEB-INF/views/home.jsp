@@ -10,6 +10,7 @@
 </head>
 <body>
 <h3>홈 / tablet & etc</h3>
+<h3>내가 고쳤다!!</h3>
 <a href='<c:url value="/specialoffers/main" />'>Special Offers</a> |
 <a href='<c:url value="/showcase/bestseller" />'>베스트셀러</a>
 </body>
